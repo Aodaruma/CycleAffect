@@ -2,6 +2,8 @@
 
 デフォルトのスクリプトである円形配置に加えて、角度に応じて様々なエフェクトが追加できるスクリプトです。
 
+![thumbnail](https://github.com/Aodaruma/CycleAffect/blob/main/cycleaffect.png)
+
 現在は **version 1.01** が最新です。
 
 以下のスクリプトが備わっています。
